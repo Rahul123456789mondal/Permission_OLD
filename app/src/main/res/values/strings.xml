@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permission_Demo</string>
+    <string name="read_contact">READ CONTACT</string>
+    <string name="capture_image">CAPTURE IMAGE</string>
+    <string name="network_status">Internet CHECK</string>
+    <string name="create_file">CREATE FILE</string>
+</resources>
